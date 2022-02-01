@@ -11,6 +11,7 @@
 		81CEE73F27A95641009EE251 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81CEE73E27A95641009EE251 /* ContentView.swift */; };
 		81CEE74127A95643009EE251 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81CEE74027A95643009EE251 /* Assets.xcassets */; };
 		81CEE74427A95643009EE251 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81CEE74327A95643009EE251 /* Preview Assets.xcassets */; };
+		81CEE74B27A9568C009EE251 /* TabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81CEE74A27A9568C009EE251 /* TabBarItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		81CEE73E27A95641009EE251 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		81CEE74027A95643009EE251 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81CEE74327A95643009EE251 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		81CEE74A27A9568C009EE251 /* TabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				81CEE73C27A95641009EE251 /* CustomTabBarApp.swift */,
 				81CEE73E27A95641009EE251 /* ContentView.swift */,
+				81CEE74A27A9568C009EE251 /* TabBarItem.swift */,
 				81CEE74027A95643009EE251 /* Assets.xcassets */,
 				81CEE74227A95643009EE251 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81CEE74B27A9568C009EE251 /* TabBarItem.swift in Sources */,
 				81CEE73F27A95641009EE251 /* ContentView.swift in Sources */,
 				81CEE73D27A95641009EE251 /* CustomTabBarApp.swift in Sources */,
 			);
